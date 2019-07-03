@@ -1539,71 +1539,11 @@ body {
     text-align: center;
   }
 }
-.cid-ruD8VjtJ9n {
-  background-image: url("../../../assets/images/background1.jpg");
+.cid-rvbwWNwIXz {
+  background-image: url("../../../assets/images/desk-582x327.png");
 }
-.cid-ruD8VjtJ9n .media-content {
-  word-wrap: break-word;
-}
-.cid-ruD8VjtJ9n .form-group {
-  padding: 0.5rem;
-}
-.cid-ruD8VjtJ9n .form-control {
-  text-align: center;
-}
-.cid-ruD8VjtJ9n .mbr-figure {
-  padding-bottom: 2rem;
-}
-@media (min-width: 992px) {
-  .cid-ruD8VjtJ9n .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-ruD8VjtJ9n .mbr-text {
-    text-align: center;
-  }
-  .cid-ruD8VjtJ9n .form-inline {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
-}
-@media (max-width: 768px) {
-  .cid-ruD8VjtJ9n .form-control {
-    font-size: .85rem;
-  }
-}
-.cid-ruD90PJQKL {
-  background-image: url("../../../assets/images/commoditties-1920x1080.jpg");
-}
-.cid-ruD90PJQKL .media-content {
-  word-wrap: break-word;
-}
-.cid-ruD90PJQKL .form-group {
-  padding: 0.5rem;
-}
-.cid-ruD90PJQKL .form-control {
-  text-align: center;
-}
-.cid-ruD90PJQKL .mbr-figure {
-  padding-bottom: 2rem;
-}
-@media (min-width: 992px) {
-  .cid-ruD90PJQKL .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-ruD90PJQKL .mbr-text {
-    text-align: center;
-  }
-  .cid-ruD90PJQKL .form-inline {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
-}
-@media (max-width: 768px) {
-  .cid-ruD90PJQKL .form-control {
-    font-size: .85rem;
-  }
+.cid-rvbx1RHLtB {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/commoditties-1-1920x1080.jpg");
 }
